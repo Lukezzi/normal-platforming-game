@@ -1,4 +1,3 @@
-# normal-platforming-game
 <html>
   <head>
     <title>Normal Platforming Game</title>
